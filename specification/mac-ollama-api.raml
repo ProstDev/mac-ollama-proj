@@ -1,0 +1,18 @@
+#%RAML 1.0
+title: MAC-Ollama-API
+version: 1.0.0
+description: Simple API to connect a Mule application and Ollama locally using the MAC project.
+mediaType: application/json
+
+/chat:
+    post:
+        body:
+            description: The question to ask Ollama
+            type: string
+            example: "Hello!"
+        responses:
+            200:
+                description: The response from Ollama
+                body:
+                    type: string
+                    example: Hey! How's it going?
