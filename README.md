@@ -4,6 +4,10 @@ Simple Mule application making use of the [MAC](https://mac-project.ai/) (MuleSo
 
 Full tutorial: [How to connect your local Ollama AI using the MAC project and ACB](https://www.prostdev.com/post/mac-project-ollama-ai)
 
+## Similar repos
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=ollama-llm-provider&theme=graywhite)](https://github.com/alexandramartinez/ollama-llm-provider)
+
 ## Steps
 
 ### 1 - Install Ollama locally
