@@ -6,6 +6,7 @@ Full tutorial: [How to connect your local Ollama AI using the MAC project and AC
 
 ## Similar repos
 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=mac-vectors-file-reader&theme=graywhite)](https://github.com/alexandramartinez/mac-vectors-file-reader)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=alexandramartinez&repo=ollama-llm-provider&theme=graywhite)](https://github.com/alexandramartinez/ollama-llm-provider)
 
 ## Steps
